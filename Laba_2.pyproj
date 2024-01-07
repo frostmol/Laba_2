@@ -29,6 +29,7 @@
     <Compile Include="unit-tests\test_BubbleSort.py" />
     <Compile Include="unit-tests\test_Calculator.py" />
     <Compile Include="unit-tests\test_Fibbonachi.py" />
+    <Compile Include="unit-tests\__init__.py" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="unit-tests\" />
