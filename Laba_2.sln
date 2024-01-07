@@ -5,6 +5,11 @@ VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Laba_2", "Laba_2.pyproj", "{098AF23D-D766-4548-B224-D3386EC84C42}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{FA4C3176-06EF-452C-BD41-67F02830DA65}"
+	ProjectSection(SolutionItems) = preProject
+		__inint__.py = __inint__.py
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
